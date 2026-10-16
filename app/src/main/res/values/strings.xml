@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlockNegative</string>
+    <string name="accessibility_desc">Layanan Keamanan BlockNegative By CoreChiper untuk mengunci aplikasi yang dilarang.</string>
+</resources>
